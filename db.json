@@ -23,6 +23,237 @@
       "doctorId": "doc1",
       "id": "1c3b"
     },
+  {
+    "patientName": "Meera",
+    "diagnoses": "Fever",
+    "allergies": "None",
+    "prescriptions": [
+      {
+        "medicine": "Paracetamol",
+        "dosage": "500mg",
+        "duration": "5 days",
+        "interval": "after breakfast"
+      },
+      {
+        "medicine": "Vitamin C",
+        "dosage": "1000mg",
+        "duration": "7 days",
+        "interval": "morning"
+      }
+    ],
+    "notes": "Drink warm water.\nAvoid junk food.",
+    "datetime": "2025-08-05T20:28:00.000Z",
+    "doctorId": "doc1",
+    "id": "1c3b"
+  },
+  {
+    "patientName": "Arjun",
+    "diagnoses": "Cold",
+    "allergies": "None",
+    "prescriptions": [
+      {
+        "medicine": "Cough Syrup",
+        "dosage": "10ml",
+        "duration": "5 days",
+        "interval": "after dinner"
+      },
+      {
+        "medicine": "Zinc Tablet",
+        "dosage": "50mg",
+        "duration": "7 days",
+        "interval": "morning"
+      }
+    ],
+    "notes": "Keep warm.\nAvoid cold drinks.",
+    "datetime": "2025-08-05T21:00:00.000Z",
+    "doctorId": "doc1",
+    "id": "1c3c"
+  },
+  {
+    "patientName": "Sanya",
+    "diagnoses": "Headache",
+    "allergies": "None",
+    "prescriptions": [
+      {
+        "medicine": "Ibuprofen",
+        "dosage": "200mg",
+        "duration": "3 days",
+        "interval": "after meals"
+      },
+      {
+        "medicine": "Magnesium",
+        "dosage": "250mg",
+        "duration": "5 days",
+        "interval": "night"
+      }
+    ],
+    "notes": "Stay hydrated.\nAvoid stress.",
+    "datetime": "2025-08-05T21:30:00.000Z",
+    "doctorId": "doc1",
+    "id": "1c3d"
+  },
+  {
+    "patientName": "Rohan",
+    "diagnoses": "Back Pain",
+    "allergies": "NSAIDs",
+    "prescriptions": [
+      {
+        "medicine": "Paracetamol",
+        "dosage": "500mg",
+        "duration": "7 days",
+        "interval": "after meals"
+      },
+      {
+        "medicine": "Calcium Tablet",
+        "dosage": "500mg",
+        "duration": "10 days",
+        "interval": "morning"
+      }
+    ],
+    "notes": "Do light exercises.\nMaintain posture.",
+    "datetime": "2025-08-05T22:00:00.000Z",
+    "doctorId": "doc1",
+    "id": "1c3e"
+  },
+  {
+    "patientName": "Anika",
+    "diagnoses": "Stomach Ache",
+    "allergies": "None",
+    "prescriptions": [
+      {
+        "medicine": "Antacid",
+        "dosage": "10ml",
+        "duration": "5 days",
+        "interval": "after meals"
+      },
+      {
+        "medicine": "Probiotic",
+        "dosage": "1 capsule",
+        "duration": "7 days",
+        "interval": "morning"
+      }
+    ],
+    "notes": "Eat light meals.\nAvoid spicy food.",
+    "datetime": "2025-08-05T22:30:00.000Z",
+    "doctorId": "doc1",
+    "id": "1c3f"
+  },
+  {
+    "patientName": "Vikram",
+    "diagnoses": "Migraine",
+    "allergies": "None",
+    "prescriptions": [
+      {
+        "medicine": "Sumatriptan",
+        "dosage": "50mg",
+        "duration": "3 days",
+        "interval": "as needed"
+      },
+      {
+        "medicine": "Magnesium",
+        "dosage": "250mg",
+        "duration": "7 days",
+        "interval": "night"
+      }
+    ],
+    "notes": "Avoid bright lights.\nReduce screen time.",
+    "datetime": "2025-08-05T23:00:00.000Z",
+    "doctorId": "doc1",
+    "id": "1c40"
+  },
+  {
+    "patientName": "Isha",
+    "diagnoses": "Cold & Cough",
+    "allergies": "Penicillin",
+    "prescriptions": [
+      {
+        "medicine": "Cough Syrup",
+        "dosage": "10ml",
+        "duration": "5 days",
+        "interval": "after dinner"
+      },
+      {
+        "medicine": "Paracetamol",
+        "dosage": "500mg",
+        "duration": "3 days",
+        "interval": "morning"
+      }
+    ],
+    "notes": "Rest well.\nDrink warm fluids.",
+    "datetime": "2025-08-05T23:30:00.000Z",
+    "doctorId": "doc1",
+    "id": "1c41"
+  },
+  {
+    "patientName": "Karthik",
+    "diagnoses": "Fever",
+    "allergies": "None",
+    "prescriptions": [
+      {
+        "medicine": "Paracetamol",
+        "dosage": "500mg",
+        "duration": "5 days",
+        "interval": "after meals"
+      },
+      {
+        "medicine": "Vitamin C",
+        "dosage": "500mg",
+        "duration": "7 days",
+        "interval": "morning"
+      }
+    ],
+    "notes": "Stay hydrated.\nTake rest.",
+    "datetime": "2025-08-06T00:00:00.000Z",
+    "doctorId": "doc1",
+    "id": "1c42"
+  },
+  {
+    "patientName": "Priya",
+    "diagnoses": "Allergy",
+    "allergies": "Pollen",
+    "prescriptions": [
+      {
+        "medicine": "Antihistamine",
+        "dosage": "10mg",
+        "duration": "7 days",
+        "interval": "morning"
+      },
+      {
+        "medicine": "Nasal Spray",
+        "dosage": "2 sprays",
+        "duration": "5 days",
+        "interval": "as needed"
+      }
+    ],
+    "notes": "Avoid allergens.\nKeep room clean.",
+    "datetime": "2025-08-06T00:30:00.000Z",
+    "doctorId": "doc1",
+    "id": "1c43"
+  },
+  {
+    "patientName": "Dev",
+    "diagnoses": "Back Pain",
+    "allergies": "None",
+    "prescriptions": [
+      {
+        "medicine": "Ibuprofen",
+        "dosage": "200mg",
+        "duration": "5 days",
+        "interval": "after meals"
+      },
+      {
+        "medicine": "Calcium Tablet",
+        "dosage": "500mg",
+        "duration": "10 days",
+        "interval": "morning"
+      }
+    ],
+    "notes": "Do stretching exercises.\nMaintain posture.",
+    "datetime": "2025-08-06T01:00:00.000Z",
+    "doctorId": "doc1",
+    "id": "1c44"
+  },
+
     {
       "patientName": "sathya",
       "diagnosis": "fewer, cold",
@@ -110,8 +341,139 @@
       "gender": "Female",
       "bloodGroup": "O+",
       "DOB": "2002-05-29"
-    }
-  ],
+    },
+
+  {
+    "id": "473c",
+    "image": "https://i.pravatar.cc/150?img=40",
+    "name": "Meera",
+    "email": "meera.r@example.com",
+    "password": "meera123",
+    "phone": "+91 9123456780",
+    "address": "78 Hilltop Ave, Chennai, India",
+    "age": "27",
+    "gender": "Female",
+    "bloodGroup": "B-",
+    "DOB": "1998-07-22"
+  },
+  {
+    "id": "473d",
+    "image": "https://i.pravatar.cc/150?img=41",
+    "name": "Arjun",
+    "email": "arjun.k@example.com",
+    "password": "arjun123",
+    "phone": "+91 9876543210",
+    "address": "12 MG Road, Bengaluru, India",
+    "age": "30",
+    "gender": "Male",
+    "bloodGroup": "O+",
+    "DOB": "1993-02-15"
+  },
+  {
+    "id": "473e",
+    "image": "https://i.pravatar.cc/150?img=42",
+    "name": "Sanya",
+    "email": "sanya.p@example.com",
+    "password": "sanya123",
+    "phone": "+91 9123456791",
+    "address": "45 Park Street, Kolkata, India",
+    "age": "25",
+    "gender": "Female",
+    "bloodGroup": "A+",
+    "DOB": "1998-11-05"
+  },
+  {
+    "id": "473f",
+    "image": "https://i.pravatar.cc/150?img=43",
+    "name": "Rohan",
+    "email": "rohan.m@example.com",
+    "password": "rohan123",
+    "phone": "+91 9988776655",
+    "address": "22 Lakeview Rd, Pune, India",
+    "age": "32",
+    "gender": "Male",
+    "bloodGroup": "B+",
+    "DOB": "1991-08-20"
+  },
+  {
+    "id": "4740",
+    "image": "https://i.pravatar.cc/150?img=44",
+    "name": "Anika",
+    "email": "anika.s@example.com",
+    "password": "anika123",
+    "phone": "+91 9012345678",
+    "address": "18 Riverbank Ave, Hyderabad, India",
+    "age": "28",
+    "gender": "Female",
+    "bloodGroup": "O-",
+    "DOB": "1995-03-12"
+  },
+  {
+    "id": "4741",
+    "image": "https://i.pravatar.cc/150?img=45",
+    "name": "Vikram",
+    "email": "vikram.t@example.com",
+    "password": "vikram123",
+    "phone": "+91 9765432109",
+    "address": "9 Sunrise Blvd, Chennai, India",
+    "age": "35",
+    "gender": "Male",
+    "bloodGroup": "AB+",
+    "DOB": "1988-06-30"
+  },
+  {
+    "id": "4742",
+    "image": "https://i.pravatar.cc/150?img=46",
+    "name": "Isha",
+    "email": "isha.j@example.com",
+    "password": "isha123",
+    "phone": "+91 9123456792",
+    "address": "33 Greenfield Rd, Delhi, India",
+    "age": "26",
+    "gender": "Female",
+    "bloodGroup": "A-",
+    "DOB": "1997-09-18"
+  },
+  {
+    "id": "4743",
+    "image": "https://i.pravatar.cc/150?img=47",
+    "name": "Karthik",
+    "email": "karthik.n@example.com",
+    "password": "karthik123",
+    "phone": "+91 9876123450",
+    "address": "56 Ocean Drive, Mumbai, India",
+    "age": "31",
+    "gender": "Male",
+    "bloodGroup": "B-",
+    "DOB": "1992-04-25"
+  },
+  {
+    "id": "4744",
+    "image": "https://i.pravatar.cc/150?img=48",
+    "name": "Priya",
+    "email": "priya.r@example.com",
+    "password": "priya123",
+    "phone": "+91 9012345679",
+    "address": "14 Hilltop Ave, Bengaluru, India",
+    "age": "29",
+    "gender": "Female",
+    "bloodGroup": "AB-",
+    "DOB": "1994-12-02"
+  },
+  {
+    "id": "4745",
+    "image": "https://i.pravatar.cc/150?img=49",
+    "name": "Dev",
+    "email": "dev.p@example.com",
+    "password": "dev123",
+    "phone": "+91 9988776644",
+    "address": "77 Sunset Blvd, Pune, India",
+    "age": "33",
+    "gender": "Male",
+    "bloodGroup": "O+",
+    "DOB": "1990-05-10"
+  }
+],
   "admins": [
     {
       "id": "1",
@@ -462,6 +824,666 @@
       "diagnoses": "fewer, cough",
       "allergies": "na"
     },
+  {
+    "id": "a1001",
+    "doctorId": "doc1",
+    "doctorName": "Dr. Richard James",
+    "speciality": "General physician",
+    "image": "https://i.ibb.co/C3v5Dp0b/doc1.png",
+    "address": {
+      "line1": "17th Cross, Richmond",
+      "line2": "Circle, Ring Road, London"
+    },
+    "patientName": "Meera",
+    "patientEmail": "meera.r@example.com",
+    "patientAge": "27",
+    "patientPhone": "+91 9123456780",
+    "patientGender": "Female",
+    "patientAddress": "78 Hilltop Ave, Chennai, India",
+    "patientBloodGroup": "B-",
+    "patientImage": "https://i.pravatar.cc/150?img=40",
+    "datetime": "15/08/2025 at 9:30 am",
+    "status": "Paid",
+    "paymentMethod": "Paytm",
+    "appstatus": "Completed",
+    "prescription": [
+      {
+        "medicine": "Paracetamol",
+        "dosage": "500mg",
+        "duration": "5 days",
+        "Interval": "after breakfast"
+      }
+    ],
+    "diagnoses": "Fever",
+    "allergies": "None"
+  },
+  {
+    "id": "a1002",
+    "doctorId": "doc5",
+    "doctorName": "Dr. Jennifer Garcia",
+    "speciality": "Neurologist",
+    "image": "https://i.ibb.co/Kp5pqwMz/doc5.png",
+    "address": {
+      "line1": "57th Cross, Richmond",
+      "line2": "Circle, Ring Road, London"
+    },
+    "patientName": "Arjun",
+    "patientEmail": "arjun.k@example.com",
+    "patientAge": "30",
+    "patientPhone": "+91 9876543210",
+    "patientGender": "Male",
+    "patientAddress": "12 MG Road, Bengaluru, India",
+    "patientBloodGroup": "O+",
+    "patientImage": "https://i.pravatar.cc/150?img=41",
+    "datetime": "16/08/2025 at 10:00 am",
+    "status": "Paid",
+    "paymentMethod": "Cash",
+    "appstatus": "Pending",
+    "prescription": [
+      {
+        "medicine": "Cough Syrup",
+        "dosage": "10ml",
+        "duration": "5 days",
+        "Interval": "after dinner"
+      }
+    ],
+    "diagnoses": "Cold",
+    "allergies": "None"
+  },
+  {
+    "id": "a1003",
+    "doctorId": "doc3",
+    "doctorName": "Dr. Sarah Patel",
+    "speciality": "Dermatologist",
+    "image": "https://i.ibb.co/WNwYqhj2/doc3.png",
+    "address": {
+      "line1": "37th Cross, Richmond",
+      "line2": "Circle, Ring Road, London"
+    },
+    "patientName": "Sanya",
+    "patientEmail": "sanya.p@example.com",
+    "patientAge": "25",
+    "patientPhone": "+91 9123456791",
+    "patientGender": "Female",
+    "patientAddress": "45 Park Street, Kolkata, India",
+    "patientBloodGroup": "A+",
+    "patientImage": "https://i.pravatar.cc/150?img=42",
+    "datetime": "16/08/2025 at 11:30 am",
+    "status": "Paid",
+    "paymentMethod": "Card",
+    "appstatus": "Completed",
+    "prescription": [
+      {
+        "medicine": "Ibuprofen",
+        "dosage": "200mg",
+        "duration": "3 days",
+        "Interval": "after meals"
+      }
+    ],
+    "diagnoses": "Headache",
+    "allergies": "None"
+  },
+  {
+    "id": "a1004",
+    "doctorId": "doc7",
+    "doctorName": "Dr. Christopher Davis",
+    "speciality": "General physician",
+    "image": "https://i.ibb.co/bM70h24m/doc7.png",
+    "address": {
+      "line1": "17th Cross, Richmond",
+      "line2": "Circle, Ring Road, London"
+    },
+    "patientName": "Rohan",
+    "patientEmail": "rohan.m@example.com",
+    "patientAge": "32",
+    "patientPhone": "+91 9988776655",
+    "patientGender": "Male",
+    "patientAddress": "22 Lakeview Rd, Pune, India",
+    "patientBloodGroup": "B+",
+    "patientImage": "https://i.pravatar.cc/150?img=43",
+    "datetime": "17/08/2025 at 9:00 am",
+    "status": "Unpaid",
+    "paymentMethod": "Cash",
+    "appstatus": "Pending",
+    "prescription": [
+      {
+        "medicine": "Paracetamol",
+        "dosage": "500mg",
+        "duration": "7 days",
+        "Interval": "after meals"
+      }
+    ],
+    "diagnoses": "Back Pain",
+    "allergies": "NSAIDs"
+  },
+  {
+    "id": "a1005",
+    "doctorId": "doc2",
+    "doctorName": "Dr. Emily Larson",
+    "speciality": "Gynecologist",
+    "image": "https://i.ibb.co/h1wpKsN0/doc2.png",
+    "address": {
+      "line1": "27th Cross, Richmond",
+      "line2": "Circle, Ring Road, London"
+    },
+    "patientName": "Anika",
+    "patientEmail": "anika.s@example.com",
+    "patientAge": "28",
+    "patientPhone": "+91 9012345678",
+    "patientGender": "Female",
+    "patientAddress": "18 Riverbank Ave, Hyderabad, India",
+    "patientBloodGroup": "O-",
+    "patientImage": "https://i.pravatar.cc/150?img=44",
+    "datetime": "17/08/2025 at 10:30 am",
+    "status": "Paid",
+    "paymentMethod": "Paytm",
+    "appstatus": "Completed",
+    "prescription": [
+      {
+        "medicine": "Antacid",
+        "dosage": "10ml",
+        "duration": "5 days",
+        "Interval": "after meals"
+      }
+    ],
+    "diagnoses": "Stomach Ache",
+    "allergies": "None"
+  },
+  {
+    "id": "a1006",
+    "doctorId": "doc5",
+    "doctorName": "Dr. Jennifer Garcia",
+    "speciality": "Neurologist",
+    "image": "https://i.ibb.co/Kp5pqwMz/doc5.png",
+    "address": {
+      "line1": "57th Cross, Richmond",
+      "line2": "Circle, Ring Road, London"
+    },
+    "patientName": "Vikram",
+    "patientEmail": "vikram.t@example.com",
+    "patientAge": "35",
+    "patientPhone": "+91 9765432109",
+    "patientGender": "Male",
+    "patientAddress": "9 Sunrise Blvd, Chennai, India",
+    "patientBloodGroup": "AB+",
+    "patientImage": "https://i.pravatar.cc/150?img=45",
+    "datetime": "18/08/2025 at 11:00 am",
+    "status": "Paid",
+    "paymentMethod": "Card",
+    "appstatus": "Completed",
+    "prescription": [
+      {
+        "medicine": "Sumatriptan",
+        "dosage": "50mg",
+        "duration": "3 days",
+        "Interval": "as needed"
+      }
+    ],
+    "diagnoses": "Migraine",
+    "allergies": "None"
+  },
+  {
+    "id": "a1007",
+    "doctorId": "doc6",
+    "doctorName": "Dr. Andrew Williams",
+    "speciality": "Neurologist",
+    "image": "https://i.ibb.co/XcDCkX4/doc6.png",
+    "address": {
+      "line1": "57th Cross, Richmond",
+      "line2": "Circle, Ring Road, London"
+    },
+    "patientName": "Isha",
+    "patientEmail": "isha.j@example.com",
+    "patientAge": "26",
+    "patientPhone": "+91 9123456792",
+    "patientGender": "Female",
+    "patientAddress": "33 Greenfield Rd, Delhi, India",
+    "patientBloodGroup": "A-",
+    "patientImage": "https://i.pravatar.cc/150?img=46",
+    "datetime": "18/08/2025 at 12:30 pm",
+    "status": "Paid",
+    "paymentMethod": "Paytm",
+    "appstatus": "Completed",
+    "prescription": [
+      {
+        "medicine": "Cough Syrup",
+        "dosage": "10ml",
+        "duration": "5 days",
+        "Interval": "after dinner"
+      }
+    ],
+    "diagnoses": "Cold & Cough",
+    "allergies": "Penicillin"
+  },
+  {
+    "id": "a1008",
+    "doctorId": "doc8",
+    "doctorName": "Dr. Timothy White",
+    "speciality": "Gynecologist",
+    "image": "https://i.ibb.co/yFvxsNwc/doc8.png",
+    "address": {
+      "line1": "27th Cross, Richmond",
+      "line2": "Circle, Ring Road, London"
+    },
+    "patientName": "Karthik",
+    "patientEmail": "karthik.n@example.com",
+    "patientAge": "31",
+    "patientPhone": "+91 9876123450",
+    "patientGender": "Male",
+    "patientAddress": "56 Ocean Drive, Mumbai, India",
+    "patientBloodGroup": "B-",
+    "patientImage": "https://i.pravatar.cc/150?img=47",
+    "datetime": "19/08/2025 at 9:00 am",
+    "status": "Unpaid",
+    "paymentMethod": "Cash",
+    "appstatus": "Pending",
+    "prescription": [
+      {
+        "medicine": "Paracetamol",
+        "dosage": "500mg",
+        "duration": "5 days",
+        "Interval": "after meals"
+      }
+    ],
+    "diagnoses": "Fever",
+    "allergies": "None"
+  },
+  {
+    "id": "a1009",
+    "doctorId": "doc4",
+    "doctorName": "Dr. Christopher Lee",
+    "speciality": "Pediatricians",
+    "image": "https://i.ibb.co/tpK0pFZN/doc4.png",
+    "address": {
+      "line1": "47th Cross, Richmond",
+      "line2": "Circle, Ring Road, London"
+    },
+    "patientName": "Priya",
+    "patientEmail": "priya.r@example.com",
+    "patientAge": "29",
+    "patientPhone": "+91 9012345679",
+    "patientGender": "Female",
+    "patientAddress": "14 Hilltop Ave, Bengaluru, India",
+    "patientBloodGroup": "AB-",
+    "patientImage": "https://i.pravatar.cc/150?img=48",
+    "datetime": "19/08/2025 at 10:30 am",
+    "status": "Paid",
+    "paymentMethod": "Card",
+    "appstatus": "Completed",
+    "prescription": [
+      {
+        "medicine": "Antihistamine",
+        "dosage": "10mg",
+        "duration": "7 days",
+        "Interval": "morning"
+      }
+    ],
+    "diagnoses": "Allergy",
+    "allergies": "Pollen"
+  },
+  {
+    "id": "a1010",
+    "doctorId": "doc10",
+    "doctorName": "Dr. Jeffrey King",
+    "speciality": "Pediatricians",
+    "image": "https://i.ibb.co/SXGvG6ht/doc10.png",
+    "address": {
+      "line1": "47th Cross, Richmond",
+      "line2": "Circle, Ring Road, London"
+    },
+    "patientName": "Dev",
+    "patientEmail": "dev.p@example.com",
+    "patientAge": "33",
+    "patientPhone": "+91 9988776644",
+    "patientGender": "Male",
+    "patientAddress": "77 Sunset Blvd, Pune, India",
+    "patientBloodGroup": "O+",
+    "patientImage": "https://i.pravatar.cc/150?img=49",
+    "datetime": "20/08/2025 at 9:00 am",
+    "status": "Paid",
+    "paymentMethod": "Paytm",
+    "appstatus": "Completed",
+    "prescription": [
+      {
+        "medicine": "Ibuprofen",
+        "dosage": "200mg",
+        "duration": "5 days",
+        "Interval": "after meals"
+      }
+    ],
+    "diagnoses": "Back Pain",
+    "allergies": "None"
+  },
+  {
+    "id": "a1011",
+    "doctorId": "doc12",
+    "doctorName": "Dr. Patrick Harris",
+    "speciality": "Neurologist",
+    "image": "https://i.ibb.co/wFMgCgXL/doc12.png",
+    "address": {
+      "line1": "57th Cross, Richmond",
+      "line2": "Circle, Ring Road, London"
+    },
+    "patientName": "Meera",
+    "patientEmail": "meera.r@example.com",
+    "patientAge": "27",
+    "patientPhone": "+91 9123456780",
+    "patientGender": "Female",
+    "patientAddress": "78 Hilltop Ave, Chennai, India",
+    "patientBloodGroup": "B-",
+    "patientImage": "https://i.pravatar.cc/150?img=40",
+    "datetime": "21/08/2025 at 10:00 am",
+    "status": "Paid",
+    "paymentMethod": "Card",
+    "appstatus": "Completed",
+    "prescription": [
+      {
+        "medicine": "Paracetamol",
+        "dosage": "500mg",
+        "duration": "5 days",
+        "Interval": "after breakfast"
+      }
+    ],
+    "diagnoses": "Fever",
+    "allergies": "None"
+  },
+  {
+    "id": "a1012",
+    "doctorId": "doc9",
+    "doctorName": "Dr. Ava Mitchell",
+    "speciality": "Dermatologist",
+    "image": "https://i.ibb.co/VWWvjppy/doc9.png",
+    "address": {
+      "line1": "37th Cross, Richmond",
+      "line2": "Circle, Ring Road, London"
+    },
+    "patientName": "Arjun",
+    "patientEmail": "arjun.k@example.com",
+    "patientAge": "30",
+    "patientPhone": "+91 9876543210",
+    "patientGender": "Male",
+    "patientAddress": "12 MG Road, Bengaluru, India",
+    "patientBloodGroup": "O+",
+    "patientImage": "https://i.pravatar.cc/150?img=41",
+    "datetime": "21/08/2025 at 11:30 am",
+    "status": "Paid",
+    "paymentMethod": "Paytm",
+    "appstatus": "Completed",
+    "prescription": [
+      {
+        "medicine": "Cough Syrup",
+        "dosage": "10ml",
+        "duration": "5 days",
+        "Interval": "after dinner"
+      }
+    ],
+    "diagnoses": "Cold",
+    "allergies": "None"
+  },
+  {
+    "id": "a1013",
+    "doctorId": "doc13",
+    "doctorName": "Dr. Chloe Evans",
+    "speciality": "General physician",
+    "image": "https://i.ibb.co/PG4k8YMP/doc13.png",
+    "address": {
+      "line1": "17th Cross, Richmond",
+      "line2": "Circle, Ring Road, London"
+    },
+    "patientName": "Sanya",
+    "patientEmail": "sanya.p@example.com",
+    "patientAge": "25",
+    "patientPhone": "+91 9123456791",
+    "patientGender": "Female",
+    "patientAddress": "45 Park Street, Kolkata, India",
+    "patientBloodGroup": "A+",
+    "patientImage": "https://i.pravatar.cc/150?img=42",
+    "datetime": "22/08/2025 at 9:00 am",
+    "status": "Unpaid",
+    "paymentMethod": "Cash",
+    "appstatus": "Pending",
+    "prescription": [
+      {
+        "medicine": "Ibuprofen",
+        "dosage": "200mg",
+        "duration": "3 days",
+        "Interval": "after meals"
+      }
+    ],
+    "diagnoses": "Headache",
+    "allergies": "None"
+  },
+  {
+    "id": "a1014",
+    "doctorId": "doc14",
+    "doctorName": "Dr. Ryan Martinez",
+    "speciality": "Gynecologist",
+    "image": "https://i.ibb.co/N2yMvKDc/doc14.png",
+    "address": {
+      "line1": "27th Cross, Richmond",
+      "line2": "Circle, Ring Road, London"
+    },
+    "patientName": "Rohan",
+    "patientEmail": "rohan.m@example.com",
+    "patientAge": "32",
+    "patientPhone": "+91 9988776655",
+    "patientGender": "Male",
+    "patientAddress": "22 Lakeview Rd, Pune, India",
+    "patientBloodGroup": "B+",
+    "patientImage": "https://i.pravatar.cc/150?img=43",
+    "datetime": "22/08/2025 at 10:30 am",
+    "status": "Paid",
+    "paymentMethod": "Card",
+    "appstatus": "Completed",
+    "prescription": [
+      {
+        "medicine": "Paracetamol",
+        "dosage": "500mg",
+        "duration": "7 days",
+        "Interval": "after meals"
+      }
+    ],
+    "diagnoses": "Back Pain",
+    "allergies": "NSAIDs"
+  },
+  {
+    "id": "a1015",
+    "doctorId": "doc11",
+    "doctorName": "Dr. Zoe Kelly",
+    "speciality": "Gastroenterologist",
+    "image": "https://i.ibb.co/mCh4sDW2/doc11.png",
+    "address": {
+      "line1": "57th Cross, Richmond",
+      "line2": "Circle, Ring Road, London"
+    },
+    "patientName": "Anika",
+    "patientEmail": "anika.s@example.com",
+    "patientAge": "28",
+    "patientPhone": "+91 9012345678",
+    "patientGender": "Female",
+    "patientAddress": "18 Riverbank Ave, Hyderabad, India",
+    "patientBloodGroup": "O-",
+    "patientImage": "https://i.pravatar.cc/150?img=44",
+    "datetime": "23/08/2025 at 9:30 am",
+    "status": "Paid",
+    "paymentMethod": "Paytm",
+    "appstatus": "Completed",
+    "prescription": [
+      {
+        "medicine": "Antacid",
+        "dosage": "10ml",
+        "duration": "5 days",
+        "Interval": "after meals"
+      }
+    ],
+    "diagnoses": "Stomach Ache",
+    "allergies": "None"
+  },
+  {
+    "id": "a1016",
+    "doctorId": "doc6",
+    "doctorName": "Dr. Andrew Williams",
+    "speciality": "Neurologist",
+    "image": "https://i.ibb.co/XcDCkX4/doc6.png",
+    "address": {
+      "line1": "57th Cross, Richmond",
+      "line2": "Circle, Ring Road, London"
+    },
+    "patientName": "Vikram",
+    "patientEmail": "vikram.t@example.com",
+    "patientAge": "35",
+    "patientPhone": "+91 9765432109",
+    "patientGender": "Male",
+    "patientAddress": "9 Sunrise Blvd, Chennai, India",
+    "patientBloodGroup": "AB+",
+    "patientImage": "https://i.pravatar.cc/150?img=45",
+    "datetime": "23/08/2025 at 11:00 am",
+    "status": "Paid",
+    "paymentMethod": "Card",
+    "appstatus": "Completed",
+    "prescription": [
+      {
+        "medicine": "Sumatriptan",
+        "dosage": "50mg",
+        "duration": "3 days",
+        "Interval": "as needed"
+      }
+    ],
+    "diagnoses": "Migraine",
+    "allergies": "None"
+  },
+  {
+    "id": "a1017",
+    "doctorId": "doc8",
+    "doctorName": "Dr. Timothy White",
+    "speciality": "Gynecologist",
+    "image": "https://i.ibb.co/yFvxsNwc/doc8.png",
+    "address": {
+      "line1": "27th Cross, Richmond",
+      "line2": "Circle, Ring Road, London"
+    },
+    "patientName": "Isha",
+    "patientEmail": "isha.j@example.com",
+    "patientAge": "26",
+    "patientPhone": "+91 9123456792",
+    "patientGender": "Female",
+    "patientAddress": "33 Greenfield Rd, Delhi, India",
+    "patientBloodGroup": "A-",
+    "patientImage": "https://i.pravatar.cc/150?img=46",
+    "datetime": "24/08/2025 at 9:00 am",
+    "status": "Unpaid",
+    "paymentMethod": "Cash",
+    "appstatus": "Pending",
+    "prescription": [
+      {
+        "medicine": "Cough Syrup",
+        "dosage": "10ml",
+        "duration": "5 days",
+        "Interval": "after dinner"
+      }
+    ],
+    "diagnoses": "Cold & Cough",
+    "allergies": "Penicillin"
+  },
+  {
+    "id": "a1018",
+    "doctorId": "doc15",
+    "doctorName": "Dr. Amelia Hill",
+    "speciality": "Dermatologist",
+    "image": "https://i.ibb.co/bRmYjPrT/doc15.png",
+    "address": {
+      "line1": "37th Cross, Richmond",
+      "line2": "Circle, Ring Road, London"
+    },
+    "patientName": "Karthik",
+    "patientEmail": "karthik.n@example.com",
+    "patientAge": "31",
+    "patientPhone": "+91 9876123450",
+    "patientGender": "Male",
+    "patientAddress": "56 Ocean Drive, Mumbai, India",
+    "patientBloodGroup": "B-",
+    "patientImage": "https://i.pravatar.cc/150?img=47",
+    "datetime": "24/08/2025 at 10:30 am",
+    "status": "Paid",
+    "paymentMethod": "Paytm",
+    "appstatus": "Completed",
+    "prescription": [
+      {
+        "medicine": "Paracetamol",
+        "dosage": "500mg",
+        "duration": "5 days",
+        "Interval": "after meals"
+      }
+    ],
+    "diagnoses": "Fever",
+    "allergies": "None"
+  },
+  {
+    "id": "a1019",
+    "doctorId": "doc3",
+    "doctorName": "Dr. Sarah Patel",
+    "speciality": "Dermatologist",
+    "image": "https://i.ibb.co/WNwYqhj2/doc3.png",
+    "address": {
+      "line1": "37th Cross, Richmond",
+      "line2": "Circle, Ring Road, London"
+    },
+    "patientName": "Priya",
+    "patientEmail": "priya.r@example.com",
+    "patientAge": "29",
+    "patientPhone": "+91 9012345679",
+    "patientGender": "Female",
+    "patientAddress": "14 Hilltop Ave, Bengaluru, India",
+    "patientBloodGroup": "AB-",
+    "patientImage": "https://i.pravatar.cc/150?img=48",
+    "datetime": "25/08/2025 at 9:00 am",
+    "status": "Paid",
+    "paymentMethod": "Card",
+    "appstatus": "Completed",
+    "prescription": [
+      {
+        "medicine": "Antihistamine",
+        "dosage": "10mg",
+        "duration": "7 days",
+        "Interval": "morning"
+      }
+    ],
+    "diagnoses": "Allergy",
+    "allergies": "Pollen"
+  },
+  {
+    "id": "a1020",
+    "doctorId": "doc10",
+    "doctorName": "Dr. Jeffrey King",
+    "speciality": "Pediatricians",
+    "image": "https://i.ibb.co/SXGvG6ht/doc10.png",
+    "address": {
+      "line1": "47th Cross, Richmond",
+      "line2": "Circle, Ring Road, London"
+    },
+    "patientName": "Dev",
+    "patientEmail": "dev.p@example.com",
+    "patientAge": "33",
+    "patientPhone": "+91 9988776644",
+    "patientGender": "Male",
+    "patientAddress": "77 Sunset Blvd, Pune, India",
+    "patientBloodGroup": "O+",
+    "patientImage": "https://i.pravatar.cc/150?img=49",
+    "datetime": "25/08/2025 at 10:30 am",
+    "status": "Unpaid",
+    "paymentMethod": "Cash",
+    "appstatus": "Pending",
+    "prescription": [
+      {
+        "medicine": "Ibuprofen",
+        "dosage": "200mg",
+        "duration": "5 days",
+        "Interval": "after meals"
+      }
+    ],
+    "diagnoses": "Back Pain",
+    "allergies": "None"
+  },
     {
       "id": "1754881170105",
       "doctorId": "doc1",
@@ -588,6 +1610,222 @@
       "rating": 5,
       "reviewText": "Very good experience. Highly recommended!",
       "createdAt": "2025-09-28T12:30:00.000Z"
-    }
+    },
+    {
+      "id": "089b",
+      "appointmentId": "a1001",
+      "doctorId": "doc1",
+      "patientName": "Meera",
+      "rating": 4,
+      "reviewText": "Good service but waiting time was long.",
+      "createdAt": "2025-09-29T10:15:00.000Z"
+    },
+    {
+      "id": "089c",
+      "appointmentId": "a1002",
+      "doctorId": "doc5",
+      "patientName": "Arjun",
+      "rating": 5,
+      "reviewText": "Excellent care and attention to detail.",
+      "createdAt": "2025-09-30T14:45:00.000Z"
+    },
+    {
+      "id": "089d",
+      "appointmentId": "a1003",
+      "doctorId": "doc3",
+      "patientName": "Sanya",
+      "rating": 3,
+      "reviewText": "Average experience, could be better.",
+      "createdAt": "2025-10-01T09:00:00.000Z"
+    },
+    {
+      "id": "089e",
+      "appointmentId": "a1004",
+      "doctorId": "doc7",
+      "patientName": "Rohan",
+      "rating": 4,
+      "reviewText": "Good overall, but room for improvement.",
+      "createdAt": "2025-10-02T11:30:00.000Z"
+    },
+  {
+    "id": "r1001",
+    "appointmentId": "a1001",
+    "doctorId": "doc1",
+    "patientName": "Meera",
+    "rating": 5,
+    "reviewText": "Excellent care and very attentive.",
+    "createdAt": "2025-09-28T09:30:00.000Z"
+  },
+  {
+    "id": "r1002",
+    "appointmentId": "a1002",
+    "doctorId": "doc5",
+    "patientName": "Arjun",
+    "rating": 4,
+    "reviewText": "Good experience, but waiting time was long.",
+    "createdAt": "2025-09-28T10:00:00.000Z"
+  },
+  {
+    "id": "r1003",
+    "appointmentId": "a1003",
+    "doctorId": "doc3",
+    "patientName": "Sanya",
+    "rating": 5,
+    "reviewText": "Friendly doctor and clear instructions.",
+    "createdAt": "2025-09-28T11:30:00.000Z"
+  },
+  {
+    "id": "r1004",
+    "appointmentId": "a1004",
+    "doctorId": "doc7",
+    "patientName": "Rohan",
+    "rating": 3,
+    "reviewText": "Average experience, but treatment was fine.",
+    "createdAt": "2025-09-28T09:00:00.000Z"
+  },
+  {
+    "id": "r1005",
+    "appointmentId": "a1005",
+    "doctorId": "doc2",
+    "patientName": "Anika",
+    "rating": 5,
+    "reviewText": "Very professional and caring doctor.",
+    "createdAt": "2025-09-28T10:30:00.000Z"
+  },
+  {
+    "id": "r1006",
+    "appointmentId": "a1006",
+    "doctorId": "doc5",
+    "patientName": "Vikram",
+    "rating": 4,
+    "reviewText": "Good consultation, explained everything clearly.",
+    "createdAt": "2025-09-28T11:00:00.000Z"
+  },
+  {
+    "id": "r1007",
+    "appointmentId": "a1007",
+    "doctorId": "doc6",
+    "patientName": "Isha",
+    "rating": 5,
+    "reviewText": "Excellent doctor, highly recommend!",
+    "createdAt": "2025-09-28T12:30:00.000Z"
+  },
+  {
+    "id": "r1008",
+    "appointmentId": "a1008",
+    "doctorId": "doc8",
+    "patientName": "Karthik",
+    "rating": 4,
+    "reviewText": "Good experience, friendly staff.",
+    "createdAt": "2025-09-28T09:00:00.000Z"
+  },
+  {
+    "id": "r1009",
+    "appointmentId": "a1009",
+    "doctorId": "doc4",
+    "patientName": "Priya",
+    "rating": 5,
+    "reviewText": "Highly professional, will visit again.",
+    "createdAt": "2025-09-28T10:30:00.000Z"
+  },
+  {
+    "id": "r1010",
+    "appointmentId": "a1010",
+    "doctorId": "doc10",
+    "patientName": "Dev",
+    "rating": 4,
+    "reviewText": "Good treatment, friendly environment.",
+    "createdAt": "2025-09-28T09:00:00.000Z"
+  },
+  {
+    "id": "r1011",
+    "appointmentId": "a1011",
+    "doctorId": "doc12",
+    "patientName": "Meera",
+    "rating": 5,
+    "reviewText": "Very caring and attentive doctor.",
+    "createdAt": "2025-09-29T09:30:00.000Z"
+  },
+  {
+    "id": "r1012",
+    "appointmentId": "a1012",
+    "doctorId": "doc9",
+    "patientName": "Arjun",
+    "rating": 4,
+    "reviewText": "Good service, explained everything well.",
+    "createdAt": "2025-09-29T10:30:00.000Z"
+  },
+  {
+    "id": "r1013",
+    "appointmentId": "a1013",
+    "doctorId": "doc13",
+    "patientName": "Sanya",
+    "rating": 5,
+    "reviewText": "Friendly and knowledgeable doctor.",
+    "createdAt": "2025-09-29T11:00:00.000Z"
+  },
+  {
+    "id": "r1014",
+    "appointmentId": "a1014",
+    "doctorId": "doc14",
+    "patientName": "Rohan",
+    "rating": 3,
+    "reviewText": "Average experience, treatment okay.",
+    "createdAt": "2025-09-29T10:00:00.000Z"
+  },
+  {
+    "id": "r1015",
+    "appointmentId": "a1015",
+    "doctorId": "doc11",
+    "patientName": "Anika",
+    "rating": 5,
+    "reviewText": "Excellent care, very professional.",
+    "createdAt": "2025-09-29T09:30:00.000Z"
+  },
+  {
+    "id": "r1016",
+    "appointmentId": "a1016",
+    "doctorId": "doc6",
+    "patientName": "Vikram",
+    "rating": 4,
+    "reviewText": "Good consultation, clear instructions.",
+    "createdAt": "2025-09-29T11:30:00.000Z"
+  },
+  {
+    "id": "r1017",
+    "appointmentId": "a1017",
+    "doctorId": "doc8",
+    "patientName": "Isha",
+    "rating": 5,
+    "reviewText": "Highly recommend, very friendly doctor.",
+    "createdAt": "2025-09-29T09:00:00.000Z"
+  },
+  {
+    "id": "r1018",
+    "appointmentId": "a1018",
+    "doctorId": "doc15",
+    "patientName": "Karthik",
+    "rating": 4,
+    "reviewText": "Good service, will visit again.",
+    "createdAt": "2025-09-29T10:30:00.000Z"
+  },
+  {
+    "id": "r1019",
+    "appointmentId": "a1019",
+    "doctorId": "doc3",
+    "patientName": "Priya",
+    "rating": 5,
+    "reviewText": "Excellent care, highly recommended!",
+    "createdAt": "2025-09-29T09:00:00.000Z"
+  },
+  {
+    "id": "r1020",
+    "appointmentId": "a1020",
+    "doctorId": "doc10",
+    "patientName": "Dev",
+    "rating": 4,
+    "reviewText": "Good experience, friendly staff.",
+    "createdAt": "2025-09-29T10:00:00.000Z"
+  }
   ]
 }
